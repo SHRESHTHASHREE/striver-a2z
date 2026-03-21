@@ -12,17 +12,20 @@ using namespace std;
 // }
 
 // s2:-
-void f(int n, int count){
-    if (count<n) return;
-    cout << count ;
-    f(n--,count);
-}
+// void f(int n, int count){
+//     if (count<n) return;
+//     cout << count ;
+//     f(n--,count);
+// }
 
 
 
- int main(){
-    int n;
-    cin>> n;
-    int count=n;
-    f(n);
- }
+//  int main(){
+//     int n;
+//     cin>> n;
+//     int count=n;
+//     f(n);
+//  }
+
+// 
+//  }
