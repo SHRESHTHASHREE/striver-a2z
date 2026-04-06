@@ -3,6 +3,6 @@ using namespace std;
 int main_{
 
     sort(nums.begin();nums.end());
-    
+    int a;
     
 }
