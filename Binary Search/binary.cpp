@@ -23,7 +23,8 @@ int main( ){
     int n;
     cin>> n;
 
-    binary_search(arr,n)
+    binary_search(arr,n);
+    int ()
 
 
 }
