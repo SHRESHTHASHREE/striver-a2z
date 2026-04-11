@@ -15,7 +15,7 @@ void binary_search(vector <int> &arr, int n ,int target){
         else high=mid-1; 
 
     }
-
+else 
 }
 
 
